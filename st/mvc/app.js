@@ -10,11 +10,7 @@ Ext.application({
         'Ext.Ajax',
 
         'Ux.locale.Manager',
-        'Ux.locale.override.st.Component',
-        'Ux.locale.override.st.Button',
-        'Ux.locale.override.st.Container',
-        'Ux.locale.override.st.TitleBar',
-        'Ux.locale.override.st.field.Field'
+        'Ux.locale.override.st.Component'
     ],
 
     controllers : ['Main'],
